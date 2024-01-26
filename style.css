@@ -1,0 +1,88 @@
+body{
+    background-color: aqua;
+}
+
+
+.fs-4 {
+    font-family: sans-serif;
+}
+
+.text{
+    position: absolute;
+    right: 100px;
+    max-width: 800px;
+    width: 500px;
+    text-align: justify;
+    padding: 5px;
+    top: 225px;
+    font-family: "Noto Sans", sans-serif;
+
+}
+
+.rounded-image {
+    border-radius: 50%;
+    margin-left: 350px; /* Added 'px' for units */
+    margin-top: 100px; /* Added 'px' for units */
+}
+
+.KITS-text {
+    text-align: left;
+    position: absolute;
+    right: 200px;
+    width: 300px;
+    padding: 5px;
+    /* You may need to adjust the top value based on your layout */
+}
+
+.KITS-paragraph {
+    text-align: left;
+    position: absolute;
+    right: 200px;
+    width: 300px;
+    padding: 5px;
+    top: 680px; /* You may need to adjust this value based on your layout */
+}
+.KITS-image{
+    display: block;
+    margin-left: 210px;
+    margin-bottom: 2px;
+
+}
+.kits-Date{
+    text-align: left;
+    position: absolute;
+    right: 200px;
+    width: 300px;
+    padding: 5px;
+    top: 740px;
+}
+
+.TTU-text{
+    text-align: left;
+    position: absolute;
+    right: 200px;
+    width: 300px;
+    padding: 5px;
+}
+
+.TTU-paragraph{
+    text-align: left;
+    position: absolute;
+    right: 200px;
+    width: 300px;
+    padding: 5px;
+    top: 1055px;
+}
+
+.TTU-image{
+    display: block;
+    margin-left: 260px;
+    margin-bottom: 2px;
+
+}
+.work-experience{
+    text-align: left;
+    position:absolute;
+    right: 345px;
+    top: 1100px;
+}
